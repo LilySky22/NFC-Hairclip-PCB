@@ -1,8 +1,8 @@
-# NameBadge
+# NFC Hair Clip Portfolio
 
 ## What is the project:
-### This project is a simple hardware project that acts as a programmable name badge, displaying the wearers name, and a little bit about them. I will use this in my degree apprenticeship interviews to make me stand out
+### This project is a cute hairclip that also uses NFC to send my portfolio website to the device
 
 ## Why I made it:
-### I have recently seen a lot of cute raspberry pi projects on my TikTok feed and wanted to try to create my own. 
+### I have recently seen a lot of cute raspberry pi projects on my TikTok feed and wanted to try to create my own, but I also wanted it to be useful to my career, so that I can show off my skills at interview and stand out.
 
