@@ -1,6 +1,6 @@
 This is where I will share my updates and plans for my project
 
-# 20/10/2026
+20/10/2026
 Today I finished off the basic prototype for the Portfolio site that the NFC will link to. 
 These are two different projects that I am working on concurrently at the moment, I am planning 
 on launching the site with netlify before my NFC PCB arrives so that I can test it immediately. 
