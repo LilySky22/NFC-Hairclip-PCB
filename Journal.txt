@@ -8,3 +8,7 @@ on launching the site with netlify before my NFC PCB arrives so that I can test 
 As for this project, I am gping to have another look at the hackclub PCB tutorial, 
 which I have attempted before, but last time once the PCB arrived I couldn't make it work, 
 so hopefully I understand it better now.
+
+Once the actual PCB is designed I will need to find a plastic hair clip, because a metal one would 
+interfere with the design. I will also need to 3d print a case to put the pcb in and stick on the hair 
+clip, so that it looks more subtle and prettier.
