@@ -12,3 +12,7 @@ so hopefully I understand it better now.
 Once the actual PCB is designed I will need to find a plastic hair clip, because a metal one would 
 interfere with the design. I will also need to 3d print a case to put the pcb in and stick on the hair 
 clip, so that it looks more subtle and prettier.
+
+21/10/2026
+Today I created the schematic and the PCB using the https://jams.hackclub.com/jam/hacker-card tutorial, but was getting lots of error messages. I asked for advice from a forum and they suggested I use a more up to date software such as Kikad or easyEDA pro rather than std. This would mean completely restarting, which I didn't want to do, so I looked into the errors myself despite having no idea and found a solution to a few, which was to move them further away from each other. I also re looked at the tutorial, and some errors are expected and don't affect the final project.
+
