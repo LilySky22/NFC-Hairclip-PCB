@@ -25,5 +25,5 @@ I fixed 3 of the 9 errors, but the others all affected the antenna, which I was 
 my final PCB
 
 22/10/2026
-Now that the actual technical side of the PCB is sorted, I want to edit the actual design and add art, so I designed a pattern on adobe illustrator before exporting it as a PNG and importing it as an image. I also added a QR code to my 
-website in case the NFC didn't work
+Now that the actual technical side of the PCB is sorted, I decided I needed a backup, so added a QR code to 
+my website in case the NFC didn't work
