@@ -21,3 +21,6 @@ which I didn't want to do, so I looked into the errors myself despite having no 
 solution to a few, which was to move them further away from each other. I also re looked at the tutorial,
 and some errors are expected and don't affect the final project.
 
+I fixed 3 of the 9 errors, but the others all affected the antenna, which I was told wasn't going to affect 
+my final PCB
+
