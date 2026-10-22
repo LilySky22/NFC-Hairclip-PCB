@@ -24,3 +24,5 @@ and some errors are expected and don't affect the final project.
 I fixed 3 of the 9 errors, but the others all affected the antenna, which I was told wasn't going to affect 
 my final PCB
 
+22/10/2026
+Now that the actual technical side of the PCB is sorted, I want to edit the actual design and add art
