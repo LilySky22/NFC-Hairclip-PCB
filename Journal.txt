@@ -27,3 +27,8 @@ my final PCB
 22/10/2026
 Now that the actual technical side of the PCB is sorted, I decided I needed a backup, so added a QR code to 
 my website in case the NFC didn't work
+
+I hae now ordered the PCB from JLCPCCB and just have to wait for it to be delivered. In the meantime, I know the
+measurements so I can make a 3D model of a case for the design. The dimensions weer latger than I expected, but 
+the smallest I could go due to the antenna, so I have decided to make it a keychain instead of a hairclip. I have
+ordered the PCB in red, which will take longer, but matches with the cute heart.
